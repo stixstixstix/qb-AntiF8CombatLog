@@ -1,6 +1,6 @@
-only woks for qb based inventory systems
+Only works for qb based inventory systems
 
-requirements:
+Requirements:
 oxmysql,
 qbcore,
 inventory system thats qbcore based (qbinventory, ps-inventory, lj-inventory)
